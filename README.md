@@ -46,14 +46,19 @@ http://twitter.github.io/bootstrap/
 ### jQuery Mobile
 
 http://jquerymobile.com/
+
 http://mobile.smashingmagazine.com/2013/03/31/getting-started-jquery-mobile/
 
 ### ClojureScript
 
 http://blog.getprismatic.com/blog/2013/4/29/faster-better-dom-manipulation-with-dommy-and-clojurescript
+
 https://github.com/ohpauleez/shoreleave
+
 http://www.kurup.org/blog/2011/11/12/clojurescript-and-phonegap/
+
 https://github.com/pangloss/clang
+
 http://squirrel.pl/blog/2012/11/23/using-angular-js-with-clojurescript/
 
 ### Elm
@@ -77,6 +82,7 @@ http://ecee.colorado.edu/~siek/gradualtyping.html
 ## Agda
 
 http://www.iis.sinica.edu.tw/~scm/pub/aopa.pdf
+
 http://twanvl.nl/blog/agda/sorting
 
 [David Sankel: The Intellectual Ascent to Agda](http://www.youtube.com/watch?v=vy5C-mlUQ1w)
