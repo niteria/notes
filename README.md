@@ -61,6 +61,8 @@ https://github.com/pangloss/clang
 
 http://squirrel.pl/blog/2012/11/23/using-angular-js-with-clojurescript/
 
+[Settings for lein 2](https://gist.github.com/niteria/5893617)
+
 ### Elm
 
 http://elm-lang.org/learn/Escape-from-Callback-Hell.elm
