@@ -11,6 +11,10 @@ https://github.com/nelhage/reptyr
 
 ## Haskell
 
+### libgmp.so.3 problem
+
+    sudo apt-get install libgmp3c2
+
 ### Monitoring
 
 https://github.com/tibbe/ekg
