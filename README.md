@@ -67,6 +67,8 @@ http://squirrel.pl/blog/2012/11/23/using-angular-js-with-clojurescript/
 
 [Settings for lein 2](https://gist.github.com/niteria/5893617)
 
+[ClojureScript One](http://clojurescriptone.com/getting-started.html)
+
 ### Elm
 
 http://elm-lang.org/learn/Escape-from-Callback-Hell.elm
@@ -108,3 +110,8 @@ Dependent types, c++ templates, denotational design
 ### Directory marks
 
 http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
+
+## Weightlifting
+
+http://www.fitocracy.com/knowledge/the-hormonal-reset/
+http://www.t-nation.com/free_online_article/sports_body_training_performance/how_to_build_pure_strength
