@@ -89,6 +89,11 @@ http://martijn.van.steenbergen.nl/journal/2010/06/24/generically-adding-position
 
 http://ecee.colorado.edu/~siek/gradualtyping.html
 
+### Oregon Programming Languages Summer School
+
+[2012](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+[2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+
 ## Agda
 
 http://www.iis.sinica.edu.tw/~scm/pub/aopa.pdf
