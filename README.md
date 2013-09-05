@@ -79,6 +79,10 @@ https://github.com/faylang/fay/wiki
 
 http://weblog.luite.com/wordpress/?p=14&date=2013-06-03
 
+### Mu
+
+http://martijn.van.steenbergen.nl/journal/2010/06/24/generically-adding-position-information-to-a-datatype/
+
 ## Type Theory
 
 ### Gradual Typing
