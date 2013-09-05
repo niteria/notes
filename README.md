@@ -97,3 +97,9 @@ http://twanvl.nl/blog/agda/sorting
 
 [David Sankel: The Intellectual Ascent to Agda](http://www.youtube.com/watch?v=vy5C-mlUQ1w)
 Dependent types, c++ templates, denotational design
+
+## Bash
+
+### Directory marks
+
+http://jeroenjanssens.com/2013/08/16/quickly-navigate-your-filesystem-from-the-command-line.html
