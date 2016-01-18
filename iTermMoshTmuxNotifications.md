@@ -28,7 +28,7 @@ function iterm_notify() {
 }
 ```
 
-And then when you get notified after the build finishes you do:
+And then when want to you get notified after the build finishes you do:
 
 ```
 $ make; iterm_notify "build finished!"
