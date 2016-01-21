@@ -9,3 +9,6 @@
 [Recent GHC commits with validate status](https://phabricator.haskell.org/diffusion/GHC/history/master/)
 
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+Note to self: Use `cp -a` instead of `cp -r` to preserve timestamps, so that the build system
+doesn't get confused.
