@@ -8,6 +8,8 @@
 
 [Recent GHC commits with validate status](https://phabricator.haskell.org/diffusion/GHC/history/master/)
 
+[GHC hyperlinked sources](http://niteria.github.io/ghc/doc-index-All.html)
+
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 Note to self: Use `cp -a` instead of `cp -r` to preserve timestamps, so that the build system
