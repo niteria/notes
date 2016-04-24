@@ -41,6 +41,10 @@ https://github.com/bos/pronk
 
 http://www.haskell.org/haskellwiki/GHC/GHCi
 
+### Why 'elem _ z' syntax would be bad
+
+https://www.reddit.com/r/haskell/comments/4fqoke/thoughts_on_using_as_syntactic_sugar_for/d2bc8dg
+
 ## Client side webdev
 
 ### Bootstrap
