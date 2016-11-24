@@ -4,7 +4,7 @@ Pretty-printer with annotations and effects in GHC.
 
 # Why?
 
-* Allows to create gcc.godbolt.com for all the stages of the pipe-line (Haskell, Core, Stg, Cmm, Asm).
+* Allows to create gcc.godbolt.org for all the stages of the pipe-line (Haskell, Core, Stg, Cmm, Asm).
 * Error messages with colors https://ghc.haskell.org/trac/ghc/ticket/8809.
   * Need effects for Windows: https://wiki.haskell.org/wikiupload/4/4c/Hiw-2015-david-christiansen.pdf, slide 33
 * Idris style interactive messages: http://www.davidchristiansen.dk/2014/09/06/a-pretty-printer-that-says-what-it-means/
