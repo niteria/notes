@@ -5,3 +5,5 @@
 [GHC(STG,Cmm,asm) illustrated for hardware persons](http://takenobu-hs.github.io/downloads/haskell_ghc_illustrated.pdf)
 
 [The Feynman Lectures on Physics, Volume I](http://www.feynmanlectures.caltech.edu/I_01.html)
+
+[P ?= NP](http://www.scottaaronson.com/papers/pnp.pdf)
