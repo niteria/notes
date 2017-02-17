@@ -7,3 +7,8 @@
 [The Feynman Lectures on Physics, Volume I](http://www.feynmanlectures.caltech.edu/I_01.html)
 
 [P ?= NP](http://www.scottaaronson.com/papers/pnp.pdf)
+
+
+# Politics
+
+[Who goes Nazi?](http://harpers.org/archive/1941/08/who-goes-nazi/3/)
