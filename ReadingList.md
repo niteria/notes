@@ -27,6 +27,12 @@
 
 [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
 
+# Linear types
+
+[Linear types can change the world!](https://pdfs.semanticscholar.org/4106/dd3be01f1283f80a8260420138d6ee874753.pdf)
+
+[Retrofitting Linear Types](https://www.reddit.com/r/haskell/comments/5z3ue9/retrofitting_linear_types_pdf/)
+
 # Design and implementation of RE2
 
 [Regular Expression Matching Can Be Simple And Fast 
