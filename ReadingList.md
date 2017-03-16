@@ -16,3 +16,13 @@
 # Science
 
 [Richard Feynman and The Connection Machine](http://blog.longnow.org/02017/02/08/richard-feynman-and-the-connection-machine/)
+
+# Probabilistic programming
+
+[http://queue.acm.org/detail.cfm?id=3055303](http://queue.acm.org/detail.cfm?id=3055303)
+
+[WebPPL probabilistic programming for the web](http://webppl.org/)
+
+[Probabilistic Models of Cognition](https://probmods.org/)
+
+[The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
