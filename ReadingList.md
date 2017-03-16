@@ -12,3 +12,7 @@
 # Politics
 
 [Who goes Nazi?](http://harpers.org/archive/1941/08/who-goes-nazi/3/)
+
+# Science
+
+[Richard Feynman and The Connection Machine](http://blog.longnow.org/02017/02/08/richard-feynman-and-the-connection-machine/)
