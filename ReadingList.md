@@ -19,7 +19,7 @@
 
 # Probabilistic programming
 
-[http://queue.acm.org/detail.cfm?id=3055303](http://queue.acm.org/detail.cfm?id=3055303)
+[Making Money Using Math](http://queue.acm.org/detail.cfm?id=3055303)
 
 [WebPPL probabilistic programming for the web](http://webppl.org/)
 
@@ -35,8 +35,7 @@
 
 # Design and implementation of RE2
 
-[Regular Expression Matching Can Be Simple And Fast 
-(but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
+[Regular Expression Matching Can Be Simple And Fast (but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
 
 [Regular Expression Matching: the Virtual Machine Approach](https://swtch.com/~rsc/regexp/regexp2.html)
 
