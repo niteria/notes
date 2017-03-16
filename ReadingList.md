@@ -26,3 +26,12 @@
 [Probabilistic Models of Cognition](https://probmods.org/)
 
 [The Design and Implementation of Probabilistic Programming Languages](http://dippl.org/)
+
+# Design and implementation of RE2
+
+[Regular Expression Matching Can Be Simple And Fast 
+(but is slow in Java, Perl, PHP, Python, Ruby, ...)](https://swtch.com/~rsc/regexp/regexp1.html)
+
+[Regular Expression Matching: the Virtual Machine Approach](https://swtch.com/~rsc/regexp/regexp2.html)
+
+[Regular Expression Matching in the Wild](https://swtch.com/~rsc/regexp/regexp3.html)
