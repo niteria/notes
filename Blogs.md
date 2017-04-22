@@ -5,3 +5,5 @@
 [Slate Star Codex](http://slatestarcodex.com/)
 
 [The morning paper](https://blog.acolyer.org/)
+
+[Dan Luu](http://danluu.com/)
