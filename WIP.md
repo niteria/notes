@@ -14,3 +14,5 @@
 
 Note to self: Use `cp -a` instead of `cp -r` to preserve timestamps, so that the build system
 doesn't get confused.
+
+[Motivate the Monkey aka don't get stuck](http://scattered-thoughts.net/blog/2015/09/22/motivating-the-monkey/)
