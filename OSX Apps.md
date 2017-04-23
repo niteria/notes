@@ -27,3 +27,15 @@
 [JDownloader](http://jdownloader.org/download/index)
 
 [Java JDK and JRE](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
+
+[Silverlight](https://www.microsoft.com/silverlight/)
+
+[Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
+
+[Transmission - torrent client](https://transmissionbt.com/download/)
+
+[Vagrant](https://www.vagrantup.com/)
+
+[VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+[Caffeine - prevent OSX sleep](http://lightheadsw.com/caffeine/)
