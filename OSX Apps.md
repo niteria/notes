@@ -45,3 +45,5 @@
 [Spotify](https://www.spotify.com/uk/)
 
 [WhatsApp](https://www.whatsapp.com/download/)
+
+[Hex Fiend - binary editor](http://ridiculousfish.com/hexfiend/)
