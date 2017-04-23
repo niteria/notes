@@ -19,3 +19,11 @@
 [LibreOffice](https://www.libreoffice.org/download/download/)
 
 [Karabiner - key remapping](https://pqrs.org/osx/karabiner/)
+
+[Steam](http://store.steampowered.com/about/)
+
+[TeamViewer - multi-platform easy remote access](https://www.teamviewer.com/en/)
+
+[JDownloader](http://jdownloader.org/download/index)
+
+[Java JDK and JRE](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
