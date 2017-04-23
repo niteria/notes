@@ -13,3 +13,5 @@
 [Audacity - audio editor](http://www.audacityteam.org/download/mac/)
 
 [Dropbox](https://www.dropbox.com/install)
+
+[Google chrome](https://www.google.co.uk/chrome/browser/desktop/index.html)
