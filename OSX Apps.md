@@ -43,3 +43,5 @@
 [Flux - easier sleep](https://justgetflux.com/)
 
 [Spotify](https://www.spotify.com/uk/)
+
+[WhatsApp](https://www.whatsapp.com/download/)
