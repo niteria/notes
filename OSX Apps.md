@@ -39,3 +39,5 @@
 [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
 [Caffeine - prevent OSX sleep](http://lightheadsw.com/caffeine/)
+
+[Flux - easier sleep](https://justgetflux.com/)
