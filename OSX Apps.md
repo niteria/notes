@@ -7,3 +7,5 @@
 [Haskell for Mac OS X](https://ghcformacosx.github.io/)
 
 [Textmate 2](http://macromates.com/download)
+
+[OSX automation](http://www.hammerspoon.org/)
