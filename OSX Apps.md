@@ -41,3 +41,5 @@
 [Caffeine - prevent OSX sleep](http://lightheadsw.com/caffeine/)
 
 [Flux - easier sleep](https://justgetflux.com/)
+
+[Spotify](https://www.spotify.com/uk/)
