@@ -11,3 +11,5 @@
 [Hammerspoon - OSX automation](http://www.hammerspoon.org/)
 
 [Audacity - audio editor](http://www.audacityteam.org/download/mac/)
+
+[Dropbox](https://www.dropbox.com/install)
