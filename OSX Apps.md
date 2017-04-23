@@ -17,3 +17,5 @@
 [Google chrome](https://www.google.co.uk/chrome/browser/desktop/index.html)
 
 [LibreOffice](https://www.libreoffice.org/download/download/)
+
+[Karabiner - key remapping](https://pqrs.org/osx/karabiner/)
