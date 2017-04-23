@@ -15,3 +15,5 @@
 [Dropbox](https://www.dropbox.com/install)
 
 [Google chrome](https://www.google.co.uk/chrome/browser/desktop/index.html)
+
+[LibreOffice](https://www.libreoffice.org/download/download/)
