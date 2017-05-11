@@ -7,3 +7,5 @@
 [The morning paper](https://blog.acolyer.org/)
 
 [Dan Luu](http://danluu.com/)
+
+[Shtetl-Optimized - Scott Aaronson's blog](http://www.scottaaronson.com/blog/)
