@@ -5,3 +5,5 @@
 [Haskell in the Large - The day to day practice of using Haskell to write large systems](https://skillsmatter.com/skillscasts/9098-haskell-in-the-large-the-day-to-day-practice-of-using-haskell-to-write-large-systems)
 
 [Advanced topics in Logic: Linear Logic](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba3155d0-2a61-4c1c-9386-b77a172006d9)
+
+[Hjernevask ("Brainwash")](https://en.wikipedia.org/wiki/Hjernevask)
