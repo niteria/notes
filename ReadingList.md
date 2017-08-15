@@ -44,3 +44,7 @@
 # Haskell and Records
 
 [SuperRecord: Anonymous Records for Haskell](https://www.athiemann.net/2017/07/02/superrecord.html)
+
+# Misc
+
+[Perhaps Not The Answer You Were Expecting But You Asked For It - Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
