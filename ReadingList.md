@@ -52,3 +52,5 @@
 [How a Guy From a Montana Trailer Park Overturned 150 Years of Biology](https://www.theatlantic.com/science/archive/2016/07/how-a-guy-from-a-montana-trailer-park-upturned-150-years-of-biology/491702/)
 
 [Richard Hamming - You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
+[If you can pronounce correctly every word in this poem, you will be speaking English better than 90% of the native English speakers in the world](https://spelling.wordpress.com/2007/09/05/english-pronunciation/)
