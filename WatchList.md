@@ -9,3 +9,5 @@
 [Hjernevask ("Brainwash")](https://en.wikipedia.org/wiki/Hjernevask)
 
 [Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+
+[Haxl: Making Concurrency Unreasonably Easy](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
