@@ -40,3 +40,7 @@
 [Regular Expression Matching: the Virtual Machine Approach](https://swtch.com/~rsc/regexp/regexp2.html)
 
 [Regular Expression Matching in the Wild](https://swtch.com/~rsc/regexp/regexp3.html)
+
+# Haskell and Records
+
+[SuperRecord: Anonymous Records for Haskell](https://www.athiemann.net/2017/07/02/superrecord.html)
