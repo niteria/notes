@@ -48,3 +48,5 @@
 # Misc
 
 [Perhaps Not The Answer You Were Expecting But You Asked For It - Conor McBride](https://personal.cis.strath.ac.uk/conor.mcbride/so-pigworker.pdf)
+
+[How a Guy From a Montana Trailer Park Overturned 150 Years of Biology](https://www.theatlantic.com/science/archive/2016/07/how-a-guy-from-a-montana-trailer-park-upturned-150-years-of-biology/491702/)
