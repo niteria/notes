@@ -56,3 +56,5 @@
 [If you can pronounce correctly every word in this poem, you will be speaking English better than 90% of the native English speakers in the world](https://spelling.wordpress.com/2007/09/05/english-pronunciation/)
 
 [INSIDE CUBA’S D.I.Y. INTERNET REVOLUTION](https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/)
+
+[The Subjection of Women](http://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf)
