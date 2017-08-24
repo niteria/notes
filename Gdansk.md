@@ -23,4 +23,6 @@
 
 [Basta! Pizza & Pasta](https://www.facebook.com/bastapizzapasta/), [groupon](https://www.groupon.pl/deals/basta-pizza-pasta)
 
+[Crazy cart](https://www.facebook.com/crazycartgdansk/), [groupon](https://www.groupon.pl/deals/crazy-carts-1)
+
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
