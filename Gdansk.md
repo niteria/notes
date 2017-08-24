@@ -9,6 +9,7 @@
 
 [TuttiSantiGdansk - pizzeria, 4/5, ciasto może być](https://www.facebook.com/TuttiSantiGdansk/)
 
+[77 Sushi - 3.5/5, może być](http://www.77sushi.com/), [groupon](https://www.groupon.pl/deals/77-sushi-2)
 
 # Do obczajenia
 
