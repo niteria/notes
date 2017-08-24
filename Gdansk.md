@@ -6,6 +6,8 @@
 
 [Napoli Mia - pizzeria, 5/5](https://www.facebook.com/ristorantepizzerianapolimia/)
 
+[Ulica Elektryków - food tracki, różnie](https://www.facebook.com/ulicaelektrykow)
+
 # Do obczajenia
 
 [Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/)
