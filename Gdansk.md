@@ -17,3 +17,5 @@
 [Suavemente - meksykańskie](https://www.facebook.com/suavemente.gdansk/)
 
 [Podwórko - food tracki, takie jak Ulica Elektryków](https://www.facebook.com/podworkokfk/)
+
+[Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
