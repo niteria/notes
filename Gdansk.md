@@ -13,6 +13,8 @@
 
 [DSTeam - strzelanie](http://dsteam.pl/), [groupon](https://www.groupon.pl/deals/dsteam)
 
+[Hedonia Squash](http://hedoniasquash.pl/), [groupon](https://www.groupon.pl/deals/hedonia-sport-28288544)
+
 # Do obczajenia
 
 [Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/), [groupon](https://www.groupon.pl/deals/po-masle)
