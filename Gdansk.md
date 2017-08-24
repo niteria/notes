@@ -18,4 +18,6 @@
 
 [Podwórko - food tracki, takie jak Ulica Elektryków](https://www.facebook.com/podworkokfk/)
 
+[Basta! Pizza & Pasta](https://www.facebook.com/bastapizzapasta/), [groupon](https://www.groupon.pl/deals/basta-pizza-pasta)
+
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
