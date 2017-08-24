@@ -11,6 +11,8 @@
 
 [77 Sushi - 3.5/5, może być](http://www.77sushi.com/), [groupon](https://www.groupon.pl/deals/77-sushi-2)
 
+[DSTeam - strzelanie](http://dsteam.pl/), [groupon](https://www.groupon.pl/deals/dsteam)
+
 # Do obczajenia
 
 [Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/), [groupon](https://www.groupon.pl/deals/po-masle)
