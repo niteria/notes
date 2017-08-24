@@ -23,8 +23,10 @@
 
 [Basta! Pizza & Pasta](https://www.facebook.com/bastapizzapasta/), [groupon](https://www.groupon.pl/deals/basta-pizza-pasta)
 
-[Crazy cart](https://www.facebook.com/crazycartgdansk/), [groupon](https://www.groupon.pl/deals/crazy-carts-1)
+[Crazy cart - driftujące go karty](https://www.facebook.com/crazycartgdansk/), [groupon](https://www.groupon.pl/deals/crazy-carts-1)
 
 [Hashi Sushi](http://www.hashisushi.pl), [groupon na szkolenie](https://www.groupon.pl/deals/hashi-sushi-6)
+
+[Movement Arena - trampoliny](http://www.movementarena.pl/), [groupon](https://www.groupon.pl/deals/movement-arena-1)
 
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
