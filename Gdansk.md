@@ -29,4 +29,6 @@
 
 [Movement Arena - trampoliny](http://www.movementarena.pl/), [groupon](https://www.groupon.pl/deals/movement-arena-1)
 
+[Restauracja Orzeł - kuchnia polska](http://www.restauracjaorzel.pl/), [groupon](https://www.groupon.pl/deals/restauracja-orzel-1)
+
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
