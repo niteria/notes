@@ -33,4 +33,6 @@
 
 [Restauracja Orzeł - kuchnia polska](http://www.restauracjaorzel.pl/), [groupon](https://www.groupon.pl/deals/restauracja-orzel-1)
 
+[Sky Camp Spadochronowy Klub Sportowy](http://www.skycamp.pl/pl/), [groupon](https://www.groupon.pl/deals/sky-camp-spadochronowy-klub-sportowy-1)
+
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
