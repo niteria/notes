@@ -25,4 +25,6 @@
 
 [Crazy cart](https://www.facebook.com/crazycartgdansk/), [groupon](https://www.groupon.pl/deals/crazy-carts-1)
 
+[Hashi Sushi](http://www.hashisushi.pl), [groupon na szkolenie](https://www.groupon.pl/deals/hashi-sushi-6)
+
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
