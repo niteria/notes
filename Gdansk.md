@@ -12,7 +12,7 @@
 
 # Do obczajenia
 
-[Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/)
+[Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/), [groupon](https://www.groupon.pl/deals/po-masle)
 
 [Suavemente - meksykańskie](https://www.facebook.com/suavemente.gdansk/)
 
