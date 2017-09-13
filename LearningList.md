@@ -14,9 +14,11 @@
 
 [Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?](http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/)
 
-## Inspiration, cool applications
+## Inspiration, cool applications, misc
 
 [Darknet: Open Source Neural Networks in C - realtime](https://pjreddie.com/darknet/)
+
+[Heroes of Deep Learning, Interviews](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
 
 # Programming languages
 
