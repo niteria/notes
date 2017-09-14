@@ -8,6 +8,8 @@
 
 [Deep Learning Specialization](https://www.deeplearning.ai/), Coursera, 35 GBP/month, Andrew Ng
 
+[Brilliant - Artificial Neural Networks](https://brilliant.org/courses/artificial-neural-networks/)
+
 ## Conferences
 
 [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
