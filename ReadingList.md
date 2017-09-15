@@ -58,3 +58,5 @@
 [INSIDE CUBA’S D.I.Y. INTERNET REVOLUTION](https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/)
 
 [The Subjection of Women](http://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf)
+
+[About how London bombing actually produced more confidence](https://thomlangford.com/2015/05/27/direct-hit-near-miss-or-remote-miss-why-you-are-more-confident-than-you-should-be/)
