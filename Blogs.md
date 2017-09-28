@@ -9,3 +9,5 @@
 [Dan Luu](http://danluu.com/)
 
 [Shtetl-Optimized - Scott Aaronson's blog](http://www.scottaaronson.com/blog/)
+
+[Eli Bednersky, compilers, Haskell, memory models, book reviews](https://eli.thegreenplace.net/)
