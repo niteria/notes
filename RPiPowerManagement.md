@@ -12,8 +12,10 @@ Parts:
 * RS-232-to-USB converter, https://www.amazon.co.uk/dp/B00QUZY4UG/
 * RS232 Serial Null Modem Cable, https://www.amazon.co.uk/StarTech-com-RS232-Serial-Modem-Cable/dp/B00006B8BJ/
 * Serial Port PCI Bracket, https://www.amazon.co.uk/Startech-Serial-Motherboard-Header-Plate/dp/B001EHFV02/
-
+* Solder, https://www.amazon.co.uk/HQ-TIND-100GR-Solder-100-g/dp/B002L5Y8R8/
 
 Tools:
-* glue gun: https://www.amazon.co.uk/gp/product/B075XGHWGP/
-* soldering iron: ???
+* glue gun, https://www.amazon.co.uk/gp/product/B075XGHWGP/
+* soldering iron, https://www.amazon.co.uk/Tuloka-Soldering-Function-Adjustable-Temperature/dp/B06XPFRBTD/
+* soldering mat, https://www.amazon.co.uk/gp/product/B071SLWC9Z/
+* solder sucker, https://www.amazon.co.uk/Silverline-633609-Metal-Solder-Sucker/dp/B000LFTN4S/
