@@ -5,7 +5,7 @@ Parts:
 * ethernet cable (have)
 * opto-isolators, 4N35, at least 3, https://www.amazon.co.uk/4N35-SHORT-F-Optocoupler-Channels1-transistor-Uinsul2-5kV/dp/B01MZ5BMLC/
 * PCB Mount RJ45 Connector, at least 2, https://www.amazon.co.uk/sourcingmap®-Shielded-Network-Modular-Connector-Black/dp/B016XH98T2/
-* MOSFET, https://www.amazon.co.uk/SODIAL-IRFZ44N-IRFZ44-Transistor-N-Channel-10pcs/dp/B00L8VC9TK/
+* MOSFET, https://www.amazon.co.uk/gp/product/B01EFNUR0A/
 * wire, many, https://www.amazon.co.uk/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/
 * pcb boards, https://www.amazon.co.uk/Solder-Finished-Prototype-Circuit-Breadboard-PCB-5x7cm-Gold/dp/B015VPE0NQ/
 * 24-Pin ATX Extension Cable, https://www.amazon.co.uk/BitFenix-30cm-24-Pin-Extension-Cable/dp/B004J3RDOA/
