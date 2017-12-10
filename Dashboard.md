@@ -3,3 +3,7 @@
 [GBP to PLN 12h](http://www.xe.com/currencycharts/?from=GBP&to=PLN&view=12h)
 
 [FB stock](https://finance.yahoo.com/quote/FB/)
+
+[Crypto currencies](https://cryptowat.ch/)
+
+[Steam unplayed games](http://steamadvisor.com/advise/76561198024717763)
