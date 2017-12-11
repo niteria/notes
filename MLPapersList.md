@@ -10,3 +10,7 @@ General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 [The Tensor Algebra Compiler](http://tensor-compiler.org/publications.html)
 
 [The Case for Learned Index Structures](https://www.arxiv-vanity.com/papers/1712.01208v1/)
+
+# Not really papers
+
+[Distill - a modern medium for presenting research](https://distill.pub/)
