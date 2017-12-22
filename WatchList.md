@@ -6,8 +6,8 @@
 
 [Advanced topics in Logic: Linear Logic](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba3155d0-2a61-4c1c-9386-b77a172006d9)
 
-[Hjernevask ("Brainwash")](https://en.wikipedia.org/wiki/Hjernevask)
+[Hjernevask ("Brainwash")](https://en.wikipedia.org/wiki/Hjernevask), watched
 
-[Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA)
+[Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA), [progress](https://www.youtube.com/watch?v=_dRXA1_e30o)
 
 [Haxl: Making Concurrency Unreasonably Easy](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
