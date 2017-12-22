@@ -4,7 +4,7 @@
 
 [Deep learning](https://classroom.udacity.com/courses/ud730), Udacity
 
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Karpathy
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Karpathy, [progress](https://www.youtube.com/watch?v=_JB0AO7QxSA)
 
 [Deep Learning Specialization](https://www.deeplearning.ai/), Coursera, 35 GBP/month, Andrew Ng
 
