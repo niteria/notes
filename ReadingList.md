@@ -64,3 +64,7 @@
 # Climate change AKA unpredictable future
 
 [Uncertainty](https://medium.com/@czerski/uncertainty-or-about-the-tail-of-the-dragon-eb28f85eed99)
+
+# Philosophy
+
+[On Consciousness](http://www.nybooks.com/topics/on-consciousness/)
