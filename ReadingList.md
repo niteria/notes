@@ -68,3 +68,9 @@
 # Philosophy
 
 [On Consciousness](http://www.nybooks.com/topics/on-consciousness/)
+
+# Career
+
+[Google, Facebook, Amazon and Microsoft salaries](https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/)
+
+[Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
