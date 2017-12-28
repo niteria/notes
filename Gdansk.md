@@ -15,11 +15,11 @@
 
 [Hedonia Squash](http://hedoniasquash.pl/), [groupon](https://www.groupon.pl/deals/hedonia-sport-28288544)
 
+[Suavemente - meksykańskie, 2/5, nie polecam](https://www.facebook.com/suavemente.gdansk/)
+
 # Do obczajenia
 
 [Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/), [groupon](https://www.groupon.pl/deals/po-masle)
-
-[Suavemente - meksykańskie](https://www.facebook.com/suavemente.gdansk/)
 
 [Podwórko - food tracki, takie jak Ulica Elektryków](https://www.facebook.com/podworkokfk/)
 
@@ -35,4 +35,5 @@
 
 [Sky Camp Spadochronowy Klub Sportowy](http://www.skycamp.pl/pl/), [groupon](https://www.groupon.pl/deals/sky-camp-spadochronowy-klub-sportowy-1)
 
+Paralotnia?
 [Mapa - ma trochę rzeczy już sprawdzonych](https://www.testsmaku.pl/mapa/)
