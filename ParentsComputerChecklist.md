@@ -1,0 +1,17 @@
+- [ ] Bank
+- [ ] Skaner
+- [ ] Drukarka
+- [ ] Radio Zet
+- [ ] Język polski
+- [ ] Youtube
+- [ ] Email
+- [ ] Zalukaj.pl
+- [ ] TVP
+- [ ] Ipla
+- [ ] Poloniusz
+- [ ] Antywirus
+- [ ] Adblock
+- [ ] Skype
+- [ ] Dropbox
+- [ ] OpenOffice (LibreOffice)
+- [ ] VNC (TeamViewer)
