@@ -9,3 +9,4 @@
 - [ ] Zazie (food)
 - [x] Arlequin in Hayes Valley (great indian spiced lamb burger)
 - [ ] [Just For You Cafe](https://web.facebook.com/justforyoucafe) (brunch)
+- [x] Chez Maman (french)
