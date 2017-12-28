@@ -1,0 +1,1 @@
+- [x] [Okonomiyaki Katsu](https://www.tripadvisor.com/Restaurant_Review-g298564-d7437189-Reviews-Okonomiyaki_Katsu-Kyoto_Kyoto_Prefecture_Kinki.html)
