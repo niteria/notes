@@ -1,0 +1,2 @@
+- [x] Franco Manca (sourdough pizza)
+- [x] [Brasserie Zedel](https://www.brasseriezedel.com/)
