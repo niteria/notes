@@ -19,6 +19,8 @@
 
 # Do obczajenia
 
+[Chleb i Wino Gdańsk](http://chlebiwino.eu/gdansk/), [facebook](https://www.facebook.com/ChlebiWinoGdansk/)
+
 [Po maśle - kubańskie kanapki](https://www.facebook.com/pomasle/), [groupon](https://www.groupon.pl/deals/po-masle)
 
 [Podwórko - food tracki, takie jak Ulica Elektryków](https://www.facebook.com/podworkokfk/)
