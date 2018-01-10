@@ -3,3 +3,7 @@
 [Pasta, brocolli, parmesan](http://www.skinnytaste.com/easiest-pasta-and-broccoli-recipe/)
 
 [Sos koperkowy kurczak](FoodRecipes/SosKoperkowyKurczak.png)
+
+[how to shred cabbage](https://toriavey.com/how-to/how-to-shred-cabbage/)
+
+[Garlic Roasted Cabbage Wedges](https://www.cookingclassy.com/garlic-roasted-cabbage-wedges/)
