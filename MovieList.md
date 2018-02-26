@@ -2,3 +2,5 @@
 - [ ] Die Hard
 - [ ] Die Hard 2
 - [ ] Terminator
+- [ ] The Conversation
+- [ ] Chinatown
