@@ -13,3 +13,7 @@
 [Eli Bednersky, compilers, Haskell, memory models, book reviews](https://eli.thegreenplace.net/)
 
 [Cochran](https://westhunt.wordpress.com/)
+
+[Gwern](https://www.gwern.net/tags/newsletter)
+
+[Michael Lynch](https://mtlynch.io/)
