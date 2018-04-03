@@ -8,6 +8,7 @@
 
 [P ?= NP](http://www.scottaaronson.com/papers/pnp.pdf)
 
+[Unsong book](http://unsongbook.com/)
 
 # Politics
 
