@@ -1,5 +1,9 @@
 # Deep learning
 
+## Books
+
+[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+
 ## Classes
 
 [Deep learning](https://classroom.udacity.com/courses/ud730), Udacity
