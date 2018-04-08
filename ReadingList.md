@@ -10,6 +10,8 @@
 
 [Unsong book](http://unsongbook.com/)
 
+[Managing ZFS filesystem](https://pthree.org/2012/12/18/zfs-administration-part-xi-compression-and-deduplication/)
+
 # Politics
 
 [Who goes Nazi?](http://harpers.org/archive/1941/08/who-goes-nazi/3/)
