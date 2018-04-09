@@ -23,6 +23,7 @@ the code makes sense, but it breaks lint from #15000
 * https://ghc.haskell.org/trac/ghc/ticket/15000, Add a linter for debug information (-g)
 * https://ghc.haskell.org/trac/ghc/ticket/14894, HEAD fails to build with -g1
 * https://ghc.haskell.org/trac/ghc/ticket/14779, Compiling with -g fails -lint-core checks, also a runtime bug
+* https://sourceware.org/ml/gdb-patches/2018-02/msg00252.html, `gdb` makes assumptions that make sense for C-like languages, patch not merged, because there's a concern about performance
 
 ### Known (unticketed) problems:
 * some tests in ./validate regress 75% allocations with `-g`
