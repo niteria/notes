@@ -16,6 +16,7 @@ the code makes sense, but it breaks lint from #15000
 * https://phabricator.haskell.org/D169, initial diff
 * https://phabricator.haskell.org/D2738, Cmm: Add support for undefined unwinding statements
 * https://phabricator.haskell.org/D1279, Output source notes in extended DWARF DIEs
+* https://ghc.haskell.org/trac/ghc/ticket/13866, -g doesn't work with -pgma=clang++
 
 ### My tickets:
 * https://ghc.haskell.org/trac/ghc/ticket/14999, unwinding info for stg_catch_frame is wrong
