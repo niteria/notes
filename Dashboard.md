@@ -8,4 +8,6 @@
 
 [Crypto currencies](https://cryptowat.ch/)
 
+[GDAX ETH EUR](https://cryptowat.ch/markets/gdax/eth/eur)
+
 [Steam unplayed games](http://steamadvisor.com/advise/76561198024717763)
