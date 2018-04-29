@@ -11,3 +11,5 @@
 [Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA), [progress](https://www.youtube.com/watch?v=_dRXA1_e30o)
 
 [Haxl: Making Concurrency Unreasonably Easy](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
+
+[2017 Mapy Znaczeń 2: Marionetki i Osoby (cz. 1)](https://www.youtube.com/watch?v=EN2lyN7rM4E)
