@@ -77,3 +77,17 @@
 [Google, Facebook, Amazon and Microsoft salaries](https://blog.step.com/2016/04/08/an-open-source-project-for-tech-salaries/)
 
 [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
+
+# To Read
+
+- [ ] [Taking a Stroll Between The Pixels](https://blog.demofox.org/2018/04/23/taking-a-stroll-between-the-pixels/)
+
+- [ ] [Why didn't Larrabee fail?](http://tomforsyth1000.github.io/blog.wiki.html#%5B%5BWhy%20didn%27t%20Larrabee%20fail%3F%5D%5D)
+
+- [ ] [The story of ispc: Origins (part 1)](http://pharr.org/matt/blog/2018/04/18/ispc-origins.html)
+
+- [ ] [How to get rich quick in Silicon Valley](https://www.theguardian.com/news/2018/apr/17/get-rich-quick-silicon-valley-startup-billionaire-techie)
+
+- [x] [How I went from $100-an-hour programming to $X0,000-a-week consulting.](https://training.kalzumeus.com/newsletters/archive/consulting_1)
+
+- [ ] [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
