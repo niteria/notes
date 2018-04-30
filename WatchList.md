@@ -13,3 +13,5 @@
 [Haxl: Making Concurrency Unreasonably Easy](http://events.techcast.com/bigtechday10/Garmisch-1345/?q=Garmisch-1345)
 
 [2017 Mapy Znaczeń 2: Marionetki i Osoby (cz. 1)](https://www.youtube.com/watch?v=EN2lyN7rM4E)
+
+[Rebecca Goldstein: Plato's Despair](https://www.youtube.com/watch?v=N3hlnSlIMYk)
