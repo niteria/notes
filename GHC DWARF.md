@@ -40,3 +40,8 @@ the code makes sense, but it breaks lint from #15000
 ### Be more strategic about source notes with `-g1`.
 
 * Need to be careful to preserve middle frames
+
+
+## Good reading material
+
+[CFI directives in assembly files](https://www.imperialviolet.org/2017/01/18/cfi.html)
