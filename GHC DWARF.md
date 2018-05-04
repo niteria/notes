@@ -45,3 +45,5 @@ the code makes sense, but it breaks lint from #15000
 ## Good reading material
 
 [CFI directives in assembly files](https://www.imperialviolet.org/2017/01/18/cfi.html)
+
+[CFI directives](https://sourceware.org/binutils/docs-2.24/as/CFI-directives.html#CFI-directives)
