@@ -49,3 +49,5 @@ the code makes sense, but it breaks lint from #15000
 [CFI directives](https://sourceware.org/binutils/docs-2.24/as/CFI-directives.html#CFI-directives)
 
 [6.45.2 Extended Asm - Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html#Extended-Asm)
+
+[Generic asm macros used on many machines](https://github.com/lattera/glibc/blob/master/sysdeps/generic/sysdep.h)
