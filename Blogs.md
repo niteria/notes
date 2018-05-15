@@ -19,3 +19,5 @@
 [Michael Lynch, the "hired an editor for a blog" guy](https://mtlynch.io/)
 
 [Aaron Toponce, the ZFS tutorial guy](https://pthree.org/)
+
+[Robert Hanson](http://www.overcomingbias.com/)
