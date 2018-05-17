@@ -2,6 +2,7 @@
 
 * [Dwarf standard v2](http://www.dwarfstd.org/doc/dwarf-2.0.0.pdf)
 * [Dwarf standard v3](http://www.dwarfstd.org/doc/Dwarf3.pdf), needed for `dW_CFA_expression`
+* [GHC DWARF wiki page](https://ghc.haskell.org/trac/ghc/wiki/DWARF)
 * [Source notes](https://ghc.haskell.org/trac/ghc/wiki/SourceNotes)
 * [Overview of code generator](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/CodeGen/Overview)
 
