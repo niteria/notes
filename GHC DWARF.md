@@ -51,3 +51,5 @@ the code makes sense, but it breaks lint from #15000
 [6.45.2 Extended Asm - Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html#Extended-Asm)
 
 [Generic asm macros used on many machines](https://github.com/lattera/glibc/blob/master/sysdeps/generic/sysdep.h)
+
+[Split Stacks in GCC](https://gcc.gnu.org/wiki/SplitStacks) - "Fortunately DWARF is complex enough to represent the unusual return sequence used by a split stack function. Therefore, the only major issue is that gdb expects all stack address to monotonically decrease. Some marker will be needed to tell gdb to disable this sanity check."
