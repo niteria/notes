@@ -42,6 +42,9 @@ the code makes sense, but it breaks lint from #15000
 
 * Need to be careful to preserve middle frames
 
+## Tips & Tricks
+
+You can get `gdb` to produce some useful info with `set debug frame 1`.
 
 ## Good reading material
 
