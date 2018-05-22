@@ -13,6 +13,8 @@ General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 
 [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 
+[Depth-Limited Solving for Imperfect-Information Games](https://arxiv.org/pdf/1805.08195.pdf)
+
 # Not really papers
 
 [Distill - a modern medium for presenting research](https://distill.pub/)
