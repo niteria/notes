@@ -15,3 +15,5 @@
 [2017 Mapy Znaczeń 2: Marionetki i Osoby (cz. 1)](https://www.youtube.com/watch?v=EN2lyN7rM4E)
 
 [Rebecca Goldstein: Plato's Despair](https://www.youtube.com/watch?v=N3hlnSlIMYk)
+
+[Must-watch Programming Talks](https://highlight.app/stajbakhsh/prog-must-watch)
