@@ -91,3 +91,5 @@
 - [x] [How I went from $100-an-hour programming to $X0,000-a-week consulting.](https://training.kalzumeus.com/newsletters/archive/consulting_1)
 
 - [ ] [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
+
+- [ ] [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/)
