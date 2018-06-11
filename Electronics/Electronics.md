@@ -5,3 +5,5 @@
 [My Ben Eater inspired homemade 8-bit CPU - Part 3: Registers & the bus](https://www.youtube.com/watch?v=AALVh39X3xw)
 
 [Practical Circuit Construction With Strip Board](http://www.instructables.com/id/Practical-Circuit-Construction-With-Strip-Board/)
+
+[r/AskElectronics](https://www.reddit.com/r/AskElectronics/)
