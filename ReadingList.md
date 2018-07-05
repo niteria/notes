@@ -12,6 +12,8 @@
 
 [Managing ZFS filesystem](https://pthree.org/2012/12/18/zfs-administration-part-xi-compression-and-deduplication/)
 
+
+
 # Politics
 
 [Who goes Nazi?](http://harpers.org/archive/1941/08/who-goes-nazi/3/)
@@ -63,6 +65,8 @@
 [The Subjection of Women](http://www.earlymoderntexts.com/assets/pdfs/mill1869.pdf)
 
 [About how London bombing actually produced more confidence](https://thomlangford.com/2015/05/27/direct-hit-near-miss-or-remote-miss-why-you-are-more-confident-than-you-should-be/)
+
+[Forty-Five Things I Learned in the Gulag](https://www.theparisreview.org/blog/2018/06/12/forty-five-things-i-learned-in-the-gulag/)
 
 # Climate change AKA unpredictable future
 
