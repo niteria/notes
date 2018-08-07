@@ -25,3 +25,5 @@
 [Marginal REVOLUTION - Small Steps Toward A Much Better World](https://marginalrevolution.com/)
 
 [Quillette](https://quillette.com/)
+
+[LessWrong](https://www.lesswrong.com/)
