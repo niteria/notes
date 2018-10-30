@@ -6,6 +6,8 @@
 
 [FB stock](https://finance.yahoo.com/quote/FB/)
 
+[VTI](https://finance.yahoo.com/quote/VTI/)
+
 [Crypto currencies](https://cryptowat.ch/)
 
 [GDAX ETH EUR](https://cryptowat.ch/markets/gdax/eth/eur)
