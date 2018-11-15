@@ -97,3 +97,7 @@
 - [ ] [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
 
 - [ ] [The Hacker's Diet](https://www.fourmilab.ch/hackdiet/)
+
+# Papers
+
+[Scuba: Diving into Data at Facebook](https://research.fb.com/wp-content/uploads/2016/11/scuba-diving-into-data-at-facebook.pdf)
