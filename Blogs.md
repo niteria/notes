@@ -1,5 +1,7 @@
 [Interesting notes (V8, React, Blink, GC, Haskell), nice format to immitate](http://blog.hiogawa.net/)
 
+[Import AI](https://jack-clark.net)
+
 [Slate Star Codex](http://slatestarcodex.com/)
 
 [The morning paper](https://blog.acolyer.org/)
