@@ -33,3 +33,5 @@
 [Sandy Maguire, technical](https://reasonablypolymorphic.com/)
 
 [Sandy Maguire, personal](https://sandymaguire.me/)
+
+[Cory Zue, SaaS passive income](http://www.coryzue.com/writing/)
