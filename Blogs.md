@@ -27,3 +27,9 @@
 [Quillette](https://quillette.com/)
 
 [LessWrong](https://www.lesswrong.com/)
+
+[Chris Penner, Haskell stuff](https://chrispenner.ca/)
+
+[Sandy Maguire, technical](https://reasonablypolymorphic.com/)
+
+[Sandy Maguire, personal](https://sandymaguire.me/)
