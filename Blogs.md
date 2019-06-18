@@ -35,3 +35,5 @@
 [Sandy Maguire, personal](https://sandymaguire.me/)
 
 [Cory Zue, SaaS passive income](http://www.coryzue.com/writing/)
+
+[Alexey Guzey](https://guzey.com/)
