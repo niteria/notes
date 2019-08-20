@@ -2,6 +2,8 @@
 
 [Slate Star Codex](http://slatestarcodex.com/)
 
+[Razib](http://www.razib.com/wordpress/)
+
 [The morning paper](https://blog.acolyer.org/)
 
 [Dan Luu](http://danluu.com/)
