@@ -37,3 +37,7 @@
 [Cory Zue, SaaS passive income](http://www.coryzue.com/writing/)
 
 [Alexey Guzey](https://guzey.com/)
+
+[Vasili Shynkarenka](https://vasilishynkarenka.com/) - Motivational?
+
+[Minding our way](http://mindingourway.com/) - Attitide
