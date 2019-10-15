@@ -41,3 +41,5 @@
 [Vasili Shynkarenka](https://vasilishynkarenka.com/) - Motivational?
 
 [Minding our way](http://mindingourway.com/) - Attitide
+
+[Senrigan](https://senrigan.io/blog/) - Anki tips, ML deployment
