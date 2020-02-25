@@ -12,6 +12,8 @@
 
 [GDAX ETH EUR](https://cryptowat.ch/markets/gdax/eth/eur)
 
+[Coronavirus](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
 [Google Analytics](https://analytics.google.com/analytics/web/)
 
 [Steam unplayed games](http://steamadvisor.com/advise/76561198024717763)
