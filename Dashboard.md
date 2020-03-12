@@ -16,4 +16,6 @@
 
 [Google Analytics](https://analytics.google.com/analytics/web/)
 
+[Pogoda Gdańsk](http://gdansk.infometeo.pl/)
+
 [Steam unplayed games](http://steamadvisor.com/advise/76561198024717763)
