@@ -14,6 +14,8 @@
 
 [Coronavirus](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
+[Coronavirus - Polska](https://public.tableau.com/profile/mateusz.karmalski#!/vizhome/KoronawiruswPolsce/Koronawirus-Polska)
+
 [Google Analytics](https://analytics.google.com/analytics/web/)
 
 [Pogoda Gdańsk](http://gdansk.infometeo.pl/)
