@@ -16,6 +16,8 @@
 
 [Coronavirus - Polska](https://public.tableau.com/profile/mateusz.karmalski#!/vizhome/KoronawiruswPolsce/Koronawirus-Polska)
 
+[Coronavirus - Trends](https://aatishb.com/covidtrends/)
+
 [Google Analytics](https://analytics.google.com/analytics/web/)
 
 [Pogoda Gdańsk](http://gdansk.infometeo.pl/)
