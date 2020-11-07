@@ -43,3 +43,5 @@
 [Minding our way](http://mindingourway.com/) - Attitide
 
 [Senrigan](https://senrigan.io/blog/) - Anki tips, ML deployment
+
+[Put a number on it](https://putanumonit.com/)
