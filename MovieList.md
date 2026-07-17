@@ -1,7 +1,0 @@
-- [ ] The Departed
-- [ ] Die Hard
-- [ ] Die Hard 2
-- [ ] Terminator
-- [ ] The Conversation
-- [ ] Chinatown
-- [ ] The Death of Stalin

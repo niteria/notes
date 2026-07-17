@@ -1,5 +1,0 @@
-- [ ] Check that water works
-- [ ] Check that light works
-- [ ] Check that equipment works
-- [ ] Get a signed agreement
-- [ ] Photo all the meters

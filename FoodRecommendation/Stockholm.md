@@ -1,1 +1,0 @@
-- [x] [Mormors dumplings](https://www.yelp.com/biz/mormors-dumplings-stockholm) (Dim Sum)
